@@ -24,22 +24,39 @@ Chang'an University - School of Information Engineering - Transportation Informa
 Research Direction: Dynamic Timing Optimization for Signal Control at Smart Intersections
 Core Courses: Machine Learning, Deep Learning, Computer Vision, etc.
 
-Getting started
+Research experience
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
+Project Title: Automated Road Detection and Digital Twin (Key University-Level Project Initiation to Completion)
+Project Time: October 2022 - October 2023
+
+Project Description: This project leveraged the C++ programming language to design and implement a multi-threaded automated road defect collection vehicle. By integrating advanced algorithms with deep learning networks, it successfully achieved the visualization of road modeling and further developed an interactive road information management system.
+
+My Key Responsibilities:
+
+(1) Designed and developed the upper computer software using C++. Utilized multi-threading to simultaneously control three area scan cameras for road data acquisition. Synchronized with the system's timestamp, the laser generator was triggered to merge overlapping data segments, resulting in effective road detection data.
+
+(2) Employed neural network models to recognize and label the data. Constructed a digital twin of the road through digitalization, and developed an interactive management system to regularly monitor road conditions.
 1. Check status by going to the repository settings, in the "GitHub pages" section
 
-Site-wide configuration
+Publication
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+[1]翟子洋,郝茹茹,董世浩.大规模智慧交通信号控制中的强化学习和深度强化学习方法综述[J].计算机应用研究,2024,41(06):1618-1627.DOI:10.19734/j.issn.1001-3695.2023.08.0419.
+[2]翟子洋,畅宏达,董世浩,等.修正环境因素对红外测温模块精度影响的分析[J].科学技术创新,2021,(24):92-93.
+[3]翟子洋,畅宏达,董世浩,等.车路协同环境下基于路面湿滑状态识别的车辆安全预警导航系统[J].科学技术创新,2021,(21):77-78.
 
-Create content & metadata
+Awards
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+National-level Awards
+(1) National Scholarship
+(2) National Encouragement Scholarship
+(3) Third Prize in the National "Challenge Cup" Extracurricular Academic Competition
+(4) Second Prize in the National "Huawei Cup" Graduate Mathematical Modeling Contest
+
+Provincial and Ministerial-level Awards
+(1) Special Award at the Provincial Level of the "Challenge Cup" in Shaanxi Province
+(2) Silver and Bronze Awards at the Provincial Level of the "Internet Plus" Competition in Shaanxi Province
+(3) Second and Third Prizes at the Provincial Level of the Shaanxi Transportation Science and Technology Competition
+(4) Completion of two Provincial-level Undergraduate Innovation and Entrepreneurship Training Programs
 
 **Markdown generator**
 
